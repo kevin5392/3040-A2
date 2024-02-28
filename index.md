@@ -26,7 +26,7 @@ GPA: 3.81
 
 ## SKILLS & INTERESTS
 
-**Technical Skills:** Java, Python, Microsoft Office, Web Development (HTML, CSS, JavaScript), Version Control (Git, GitHub), Agile methodology.
+**Technical Skills:** Java, Python, Microsoft Office, Web Development (HTML, CSS, JavaScript), Git, Agile methodology.
 
 **Soft Skills:** Effective communication, teamwork and collaboration, leadership, time management, creative thinking, attention to detail.
 
