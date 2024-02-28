@@ -62,9 +62,6 @@
 
 #### Site Preview
 After completing these steps you should have something that looks like this:
-![Alt text](![Untitled-1](https://github.com/kevin5392/3040-A2/assets/161624174/98b69f61-3463-4e37-9888-42bee2d35369)
-)
-
 ![Resume GIF](./resume.gif)
 
 
