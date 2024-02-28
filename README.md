@@ -11,7 +11,7 @@
 
 ## Instructions
 
-#### Step 1: Setup Your GitHub Repository
+### Step 1: Setup Your GitHub Repository
 
 - This approach aligns with Etter's recommendation to use a distributed version control system. While his advice primarily targets documentation stored alongside code, applying it to hosting resumes on GitHub Pages similarly embraces the use of modern, developer-preferred tools. 
 
@@ -23,7 +23,7 @@
 6. Check the box to initialize with a README file.
 7. Click **Create repository**.
 
-#### Step 2: Upload Your Resume to Your Repository
+### Step 2: Upload Your Resume to Your Repository
 
 - This aligns with Etter's recommendation of using Markdown for simple websites, like hosting a resume. Markdown is portable and web compatable, makign it a perfect choice for a simple website such as this.
 
@@ -33,7 +33,7 @@
 4. Click **Commit changes** at the bottom of the screen.
 
 
-#### Step 3: Enable GitHub Pages
+### Step 3: Enable GitHub Pages
 
 - This aligns with Etter's preference for static websites. As he states in his book, static websites are simple, portable, and secure. Using GitHub Pages enables anyone with a computer to host their own website without any complex servers.
 
@@ -44,7 +44,7 @@
 5. Click **Save**.
 6. GitHub Pages will now build your site. When the site is ready a link will appear at the top of the page. Note that it will take a few minutes to build the site so make sure to refresh the page.
 
-#### Step 4: Customize Your Page with Jekyll (Optional)
+### Step 4: Customize Your Page with Jekyll (Optional)
 - This aligns with Etter's preference for static site generators. By using Jekyll, one of his recommended generators, it's simple to customize the site's appearance.
 1. Navigate to your repository files by selecting **Code** from the menu bar at the top of the page.
 2. Click **Add file**.
@@ -60,7 +60,7 @@
 6. Click **Commit changes**
 7. Click **Commit changes** again in the additional popup prompt. It will take a few minutes for this theme to take effect.
 
-#### Site Preview
+### Site Preview
 After completing these steps you should have something that looks like this:
 ![Resume GIF](./resume.gif)
 
