@@ -46,7 +46,7 @@
 
 ### Step 4: Customize Your Page with Jekyll (Optional)
 - This aligns with Etter's preference for static site generators. By using Jekyll, one of his recommended generators, it's simple to customize the site's appearance.
-1. Navigate to your repository files by selecting **Code** from the menu bar at the top of the page.
+1. Navigate to your repositories files by selecting **Code** from the menu bar at the top of the page.
 2. Click **Add file**.
 3. Click **Create new file**.
 4. Name the file `_config.yml`.
