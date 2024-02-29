@@ -37,7 +37,7 @@
 
 - This aligns with Etter's preference for static websites. As he states in his book, static websites are simple, portable, and secure. Using GitHub Pages enables anyone with a computer to host their own website without any complex servers.
 
-1. Click **Settings** in your repository.
+1. Click **Settings** while in your repository.
 2. Click **Pages** under the **Code and Automation** section.
 3. Open the Branch dropdown menu, currently set to **None**.
 4. Set the branch to **Main**.
